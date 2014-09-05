@@ -1,0 +1,15 @@
+the "wide variety of services"
+
+Business and Technical Assessment - Let one of our Partnership Directors meet with you and talk shop. We've worked with every kind of engineering team and we know what companies large and small are doing right now to tackle technical issues and cash in on business opportunities. Our Partnership Director will meet with you one-on-one, learn your business model, understand your technical investment, and analyze how well they are aligned. Do you have a great business idea but you're not sure how to get started? Have you achieved success and now you want to take your business to the next level? No matter what the scenario, Def Method can help you hit the ground running and put you on the path to success.
+
+Sign up for a free BizTech Assessment!
+
+Technical Evaluation - Have you made a substantial investment in your technology but you're not seeing the results you'd hoped for? Def Method excels where others don't because we don't shy away from legacy code or less-than-ideal development practices. We've seen it all, and no matter the state of your project we have the knowlege and resources to get it back on track.
+
+Or are your getting a project off the ground and you want advice on how to put together your tech stack? Let Def Method take a crack at it. We've got the know-how to put the right technical resources in place. We're out there in businesses big and small every day - we know how to put the right system in place to achieve the business success you're looking for!
+
+Engineering - When you need to deliver running, tested features, look no further than Def Method. Our engineers are highly skilled and experienced veterans with a track record of successful delivery. We offer on-site and remote engineering resources to suit every budget and business need. Just getting started with a small budget? Talk to us. Need senior developers on site to get your project on track or break new ground on an exciting new feature? Give Def Method a shout. Have you heard about the advantages of TDD/BDD, pair programming, continuous deployment, or any other industry best practices and want to see how they can work for you? You're speaking our language!
+
+But our commitment does not stop there. Every Def Method engagement is staffed with a Partnership Director that can look at the big picture, ensure our team is always delivering your project on time, on budget, and to your immense satisfaction. Our Partnership Directors are all experienced software engineers, giving us a unique perspective on the software we're delivering and the business needs we're servicing. The partnership you form with Def Method is one you can rely on.
+
+
