@@ -1,0 +1,38 @@
+If your goal is to achieve business success by way of superior technical
+execution, Def Method is speaking your language.
+
+Matching programming and technical abilities with business savvy, the Def
+Method approach is unlike many you'll see. We are equally passionate about
+software quality as we are about business success. Here is a list of just
+some of the services Def Method provides:
+
+- technical evaluation of your business goals. Do you have the right team
+  in place to achieve your business goals? If not, what can be changed?
+  What is your current capacity and how can it be boosted using the
+  resources you have right now?
+
+  - software development process improvement. Many companies implement
+  software practices like SCRUM, Agile, or XP. These are great buzzwords
+  and make for great books, but how well does your team execute best
+  practices to achieve results? Are these technical achievements right
+  for your company? How can you use metrics like code quality and
+  velocity to achieve measurable technical success?
+
+  - test and behavior driven development. You've heard of TDD/BDD, or
+  maybe you're already convinced it's the best thing for your team. So
+  how do you implement it? How do you make it catch on in your
+  development team? Def Method has been there, and has the right tools
+  for the job.
+
+  - team building.  Leading teams of all sizes, age groups, geographic
+  location, and skill level, Def Method takes a particular pride in
+  getting the very best out of any team. Def Method works with
+  software development teams, earning trust by doing the work,
+  listening to team members, and making effective decisions.
+
+  - added capacity. Sometimes you just need to put your head down
+  and get the job done. Def Method can add high-quality
+  development expertise to your project today. 
+
+  Add Def Method to your company today and experience the
+  difference!
