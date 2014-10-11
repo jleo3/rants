@@ -1,0 +1,43 @@
+Vacuous Self-Promotion and Automated Testing
+
+This is a two-part blog post about developer testing practices, what the differences are, and why it is critical for you to know the difference.
+
+Business owners, hiring managers, and budding entreprenuers have a difficult challenge when trying to hire or contract software engineers. Engineers trying to land a job or a contract market themselves ruthlessly. Read through some resumes or peruse a few elance.com profiles and it won't be long before you start to see the same jargon used over and over.
+
+- Agile and Scrum methodologies
+- Outstanding leadership skills
+- Full stack engineer
+- Experienced with TDD/BDD
+
+Seeing these terms over and over devoids terms like _Agile_, _leadership_, and _full stack_ of their meaning. After all, not every software developer can also be a leader. In fact, not many even want to be a leader - being a leader often means less coding or coding with less-experienced developers. Certainly not everyone is well-versed in Agile (but this is a topic for another time). And it's tough to claim that one is a full stack developer when every tech stack is built differently!
+
+The one claim I want to focus on today is the "TDD/BDD" claim. It's misuse in our industry is rampant, and the impacts of this misuse can have disastrous effects on your software and, ultimately, your business.
+
+A short while ago, I was brought in to help a client whose product was stalled; as a startup, they had achieved success in their first years of business. They had a great business model and superb execution. They built a healthy list of satisfied customers. In the beginning, their software soared. Features were delivered on time and functioned correctly. They experienced very few bugs. By the time they reached out to me, however, conditions had deteriorated. The estimated time to complete features had skyrocketed, and even these targets were being badly missed. Too many bugs made it to production and impacted users. Acrimony and distrust filtered between developers and stakeholders. The product suffered as a result.
+
+When I first arrive at a code base the first thing I do is look at the tests. Looking at tests tells me many things, among them:
+
+- How much importance does the development team place on testing? If there aren't many tests, it's probably not very important.
+- How much can the tests tell me about the production code? Specs can serve as the most reliable documentation for a project.
+- Were these tests written _before_ the production code was written or _after_.
+
+It's the last point that's worth focusing on here. I can tell in minutes whether the tests were written with a TDD/BDD approach. In this case, the tell was an easy one - long, unweildy tests are almost certainly the result of writing tests after the feature has been developed.
+
+INSERT LONG, UNWEILDY TEST CODE
+
+How do I know? When we write the tests first, we tend to create objects with fewer dependencies. This makes code easier to test. As developers, we want to write code that is terse and easy to reason about. When we write short, incremental, tests we end up with short, imperative methods and classes because we have to in order to get our tests green. Conversely, if we start with the production code, we are more likely to create a complex object from the start.
+
+As Sandy Metz says, code should be written for reuse. The first chance we get to reuse our code is in our tests. Put another way, the tests act as a "client" to the developer's API. Code that is written without tests first is not being exercised in the same way. Thus it is far easier to write complex methods and classes. Once we start down that road is very difficult to find our way back to simple, reusable code. And simple, reusable code is the only kind that avoids the pitfalls I saw on this project.
+
+INSERT SHORT TEST CODE
+
+What's the difference? In practice, tests written first _drive_ how the production code is written. Small unit tests or specs beget small, easy-to-understand classes and methods. Writing tests first does not just help prevent regressions. The act of writing tests informs one's design choices.
+
+In the next post, I'll talk about how to cut through the self-promotion jargon to find out what kind of work you're really getting out of your engineers.
+
+
+NOTES:
+These days, particularly in open source projects like Rails, developers do in fact write tests.
+
+As both a business owner and a software engineer, I feel the pain from both ends. As a business owner, I don't want to be taken by less-than-virtuous self-promotion in an engineer that wants to work for me. As an engineer in a city filled with engineers, I want us to collectively raise the standards for excellence in our industry.
+
